@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 45px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  text-align: left;
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.list {
+  text-align: center;
+}
