@@ -20,7 +20,7 @@ _No bugs. Works perfectly._
 
 ## Support and contact details
 
-_If you have any issues or questions, contact Na Hyung Choi at schoinh@gmail.com_
+_If you have any issues or questions, contact Na Hyung Choi_
 
 ## Technologies Used
 
